@@ -14,4 +14,7 @@
 
 <img src="2.jpg" alt="" width="400"  />
 
-
+### 3.新添加的菜单使用路径，怎么生效呢? Add New Menu Path, How does it work ?
+1.点击下方添加路径, 按快捷键 Command+Option+Escape  唤出强制退出应用程序菜单，选择 访达-> 重新开启<br>
+(Click Add Button to Add Menu Paths ,Then Press Shortcut Key “Command+Option+Escape” And ReOpen Finder)<br>
+<img src="3.jpg" alt="" width="400"  />
